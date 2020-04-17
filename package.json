@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000020",
-	"version": "1.0.202003171130",
+	"version": "1.0.202004170804",
 	"description": "生成二维码",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
